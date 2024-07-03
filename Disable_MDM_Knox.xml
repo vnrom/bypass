@@ -1,0 +1,7 @@
+<importExportSetting>
+   <disabledPackages class="java.util.ArrayList">
+	  <string>com.sec.enterprise.knox.cloudmdm.smdms</string>
+	  <string>com.google.android.apps.work.oobconfig</string>
+	  <string>com.google.android.gms</string>
+   </disabledPackages>
+</importExportSetting>

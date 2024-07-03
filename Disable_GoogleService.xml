@@ -1,0 +1,5 @@
+<importExportSetting>
+   <disabledPackages class="java.util.ArrayList">
+      <string>com.google.android.gms</string>
+   </disabledPackages>
+</importExportSetting>

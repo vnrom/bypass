@@ -1,0 +1,5 @@
+<importExportSetting>
+   <disabledPackages class="java.util.ArrayList">
+      <string>com.android.systemui</string>
+   </disabledPackages>
+</importExportSetting>
